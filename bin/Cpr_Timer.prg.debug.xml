@@ -1,143 +1,206 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="9" pc="268435456" symbol="callback1"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="11" pc="268435468" symbol="callback1"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="12" pc="268435487" symbol="callback1"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="4" lineNum="18" pc="268435504" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="4" lineNum="19" pc="268435508" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="5" lineNum="23" pc="268435527" symbol="onLayout"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="5" lineNum="24" pc="268435531" symbol="onLayout"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="5" lineNum="26" pc="268435568" symbol="onLayout"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="30" pc="268435581" symbol="startTimer"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="33" pc="268435585" symbol="startTimer"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="7" lineNum="39" pc="268435627" symbol="onShow"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="43" pc="268435632" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="45" pc="268435636" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="46" pc="268435656" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="47" pc="268435680" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="48" pc="268435680" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="49" pc="268435696" symbol="onUpdate"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="9" lineNum="55" pc="268435711" symbol="onHide"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="10" lineNum="60" pc="268435716" symbol="callback2"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="12" lineNum="6" pc="268435721" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="12" lineNum="7" pc="268435725" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="13" lineNum="11" pc="268435744" symbol="onStart"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="14" lineNum="15" pc="268435749" symbol="onStop"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="15" lineNum="19" pc="268435754" symbol="getInitialView"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="15" lineNum="20" pc="268435758" symbol="getInitialView"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="6" pc="268435826" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="7" pc="268435830" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="18" lineNum="10" pc="268435849" symbol="onMenuItem"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="18" lineNum="11" pc="268435853" symbol="onMenuItem"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="18" lineNum="12" pc="268435864" symbol="onMenuItem"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="18" lineNum="13" pc="268435888" symbol="onMenuItem"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="18" lineNum="14" pc="268435899" symbol="onMenuItem"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="20" lineNum="6" pc="268435924" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="20" lineNum="7" pc="268435928" symbol="initialize"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="10" pc="268435947" symbol="onMenu"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="11" pc="268435951" symbol="onMenu"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="12" pc="268436035" symbol="onMenu"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="22" lineNum="14" pc="268436039" symbol="onKey"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="22" lineNum="16" pc="268436043" symbol="onKey"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="22" lineNum="18" pc="268436066" symbol="onKey"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="23" lineNum="20" pc="268436085" symbol="onTap"/>
-        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="23" lineNum="22" pc="268436089" symbol="onTap"/>
-        <entry filename="Rez" id="29" lineNum="15" pc="268436131" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="17" pc="268436143" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="18" pc="268436295" symbol="MainLayout"/>
-        <entry filename="Rez" id="29" lineNum="20" pc="268436418" symbol="MainLayout"/>
-        <entry filename="Rez" id="32" lineNum="33" pc="268436446" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="34" pc="268436450" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="35" pc="268436468" symbol="initialize"/>
-        <entry filename="Rez" id="32" lineNum="36" pc="268436524" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="22" pc="268435456" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="25" pc="268435468" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="27" pc="268435485" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="28" pc="268435504" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="30" pc="268435520" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="2" lineNum="34" pc="268435539" symbol="callback1"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="39" pc="268435556" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="42" pc="268435568" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="44" pc="268435585" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="46" pc="268435602" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="47" pc="268435621" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="49" pc="268435637" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="51" pc="268435656" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="54" pc="268435672" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="3" lineNum="57" pc="268435691" symbol="callback2"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="5" lineNum="62" pc="268435708" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="5" lineNum="63" pc="268435712" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="67" pc="268435731" symbol="onLayout"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="68" pc="268435735" symbol="onLayout"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="69" pc="268435772" symbol="onLayout"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="6" lineNum="70" pc="268435813" symbol="onLayout"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="7" lineNum="76" pc="268435855" symbol="onShow"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="80" pc="268435860" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="82" pc="268435864" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="83" pc="268435884" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="84" pc="268435908" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="86" pc="268435932" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="88" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="89" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="90" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="91" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="92" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="93" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="95" pc="268435956" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="97" pc="268435973" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="99" pc="268436007" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="102" pc="268436038" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="103" pc="268436055" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="106" pc="268436074" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="109" pc="268436084" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="110" pc="268436101" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="112" pc="268436120" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="115" pc="268436130" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="116" pc="268436147" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="118" pc="268436166" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="121" pc="268436176" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="123" pc="268436193" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="124" pc="268436211" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="125" pc="268436224" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="128" pc="268436237" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="129" pc="268436252" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="136" pc="268436401" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="138" pc="268436425" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="141" pc="268436512" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="143" pc="268436528" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="144" pc="268436556" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="145" pc="268436570" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="8" lineNum="146" pc="268436584" symbol="onUpdate"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerView.mc" id="9" lineNum="152" pc="268436599" symbol="onHide"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="11" lineNum="6" pc="268436604" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="11" lineNum="7" pc="268436608" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="12" lineNum="11" pc="268436627" symbol="onStart"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="13" lineNum="15" pc="268436632" symbol="onStop"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="14" lineNum="19" pc="268436637" symbol="getInitialView"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerApp.mc" id="14" lineNum="20" pc="268436641" symbol="getInitialView"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="16" lineNum="6" pc="268436709" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="16" lineNum="7" pc="268436713" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="11" pc="268436732" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="12" pc="268436736" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="13" pc="268436747" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="14" pc="268436768" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="15" pc="268436809" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="16" pc="268436831" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="17" pc="268436842" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerMenuDelegate.mc" id="17" lineNum="18" pc="268436863" symbol="onMenuItem"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="19" lineNum="6" pc="268436908" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="19" lineNum="7" pc="268436912" symbol="initialize"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="20" lineNum="10" pc="268436931" symbol="onMenu"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="20" lineNum="11" pc="268436935" symbol="onMenu"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="20" lineNum="12" pc="268437019" symbol="onMenu"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="14" pc="268437023" symbol="onKey"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="16" pc="268437027" symbol="onKey"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="17" pc="268437050" symbol="onKey"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="21" lineNum="18" pc="268437068" symbol="onKey"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="22" lineNum="21" pc="268437087" symbol="onTap"/>
+        <entry filename="D:\\Eigene Dateien\\Dokumente\\Programming\\eclipse-workspace\\Cpr_Timer\\source\\Cpr_TimerDelegate.mc" id="22" lineNum="23" pc="268437091" symbol="onTap"/>
+        <entry filename="Rez" id="28" lineNum="15" pc="268437133" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="17" pc="268437145" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="18" pc="268437291" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="19" pc="268437404" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="20" pc="268437517" symbol="MainLayout"/>
+        <entry filename="Rez" id="28" lineNum="22" pc="268437630" symbol="MainLayout"/>
+        <entry filename="Rez" id="31" lineNum="35" pc="268437678" symbol="initialize"/>
+        <entry filename="Rez" id="31" lineNum="36" pc="268437682" symbol="initialize"/>
+        <entry filename="Rez" id="31" lineNum="37" pc="268437700" symbol="initialize"/>
+        <entry filename="Rez" id="31" lineNum="38" pc="268437756" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry field="true" id="10" symbol="cpr_min"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389349" symbol="justification"/>
         <entry id="8389097" method="true" symbol="onKey"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="18" object="true" symbol="MainMenu"/>
+        <entry id="23" object="true" symbol="MainMenu"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="19" method="true" symbol="MainLayout"/>
+        <entry id="24" method="true" symbol="MainLayout"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="12" symbol="total_min"/>
         <entry id="8389098" method="true" symbol="onTap"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="23" symbol="AppName"/>
+        <entry field="true" id="27" symbol="AppName"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
-        <entry id="26" symbol="item_2"/>
-        <entry id="25" symbol="item_1"/>
-        <entry field="true" id="17" symbol="LauncherIcon"/>
+        <entry field="true" id="11" symbol="total_sec"/>
+        <entry field="true" id="13" symbol="total_hr"/>
+        <entry id="29" symbol="item_2"/>
+        <entry id="28" symbol="item_1"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
-        <entry field="true" id="21" symbol="menu_label_2"/>
-        <entry field="true" id="20" symbol="menu_label_1"/>
+        <entry field="true" id="26" symbol="menu_label_2"/>
+        <entry field="true" id="25" symbol="menu_label_1"/>
         <entry field="true" id="8388697" symbol="timer2"/>
         <entry field="true" id="8388696" symbol="timer1"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry id="12" object="true" symbol="Cpr_TimerApp"/>
+        <entry id="17" object="true" symbol="Cpr_TimerApp"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="24" method="true" symbol="startTimer"/>
-        <entry id="11" object="true" symbol="Cpr_TimerView"/>
+        <entry id="16" object="true" symbol="Cpr_TimerView"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="15" symbol="vibeData"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8388701" method="true" symbol="callback2"/>
         <entry id="8388700" method="true" symbol="callback1"/>
         <entry id="8389348" symbol="font"/>
         <entry id="8389347" symbol="color"/>
-        <entry id="13" object="true" symbol="Cpr_TimerMenuDelegate"/>
+        <entry id="18" object="true" symbol="Cpr_TimerMenuDelegate"/>
         <entry id="8389109" method="true" symbol="onMenuItem"/>
-        <entry id="15" module="true" symbol="Layouts"/>
-        <entry field="true" id="22" symbol="prompt"/>
+        <entry id="20" module="true" symbol="Layouts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
-        <entry id="14" object="true" symbol="Cpr_TimerDelegate"/>
+        <entry id="19" object="true" symbol="Cpr_TimerDelegate"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry field="true" id="9" symbol="cpr_count"/>
         <entry id="8389346" symbol="text"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="16" module="true" symbol="Menus"/>
-        <entry field="true" id="10" symbol="total_count"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry field="true" id="14" symbol="shocks"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435581" name="dc" stackId="1" startPc="268435527"/>
-        <entry endPc="268435710" name="timeLabel" stackId="2" startPc="268435636"/>
-        <entry endPc="268435710" name="timeString" stackId="3" startPc="268435636"/>
-        <entry endPc="268435711" name="dc" stackId="1" startPc="268435632"/>
-        <entry endPc="268435749" name="state" stackId="1" startPc="268435744"/>
-        <entry endPc="268435754" name="state" stackId="1" startPc="268435749"/>
-        <entry endPc="268435924" name="item" stackId="1" startPc="268435849"/>
-        <entry endPc="268436085" name="evt" stackId="1" startPc="268436039"/>
-        <entry endPc="268436131" name="evt" stackId="1" startPc="268436085"/>
-        <entry endPc="268436445" name="rez_cmp_local_text_5041947169" stackId="2" startPc="268436143"/>
-        <entry endPc="268436445" name="rez_cmp_local_text_timeLabel" stackId="3" startPc="268436143"/>
-        <entry endPc="268436446" name="dc" stackId="1" startPc="268436131"/>
+        <entry endPc="268435855" name="dc" stackId="1" startPc="268435731"/>
+        <entry endPc="268436598" name="timeString" stackId="5" startPc="268435864"/>
+        <entry endPc="268436598" name="timeLabel" stackId="2" startPc="268435864"/>
+        <entry endPc="268436598" name="timeLabelTotal" stackId="3" startPc="268435864"/>
+        <entry endPc="268436598" name="totalMinString" stackId="7" startPc="268435864"/>
+        <entry endPc="268436598" name="totalTimeString" stackId="6" startPc="268435864"/>
+        <entry endPc="268436598" name="totalHrString" stackId="9" startPc="268435864"/>
+        <entry endPc="268436598" name="shockLabel" stackId="4" startPc="268435864"/>
+        <entry endPc="268436598" name="shockString" stackId="10" startPc="268435864"/>
+        <entry endPc="268436598" name="totalSecString" stackId="8" startPc="268435864"/>
+        <entry endPc="268436599" name="dc" stackId="1" startPc="268435860"/>
+        <entry endPc="268436632" name="state" stackId="1" startPc="268436627"/>
+        <entry endPc="268436637" name="state" stackId="1" startPc="268436632"/>
+        <entry endPc="268436908" name="item" stackId="1" startPc="268436732"/>
+        <entry endPc="268437087" name="evt" stackId="1" startPc="268437023"/>
+        <entry endPc="268437133" name="evt" stackId="1" startPc="268437087"/>
+        <entry endPc="268437677" name="rez_cmp_local_text_shockLabel" stackId="3" startPc="268437145"/>
+        <entry endPc="268437677" name="rez_cmp_local_text_statusLabel" stackId="2" startPc="268437145"/>
+        <entry endPc="268437677" name="rez_cmp_local_text_timeLabel" stackId="4" startPc="268437145"/>
+        <entry endPc="268437677" name="rez_cmp_local_text_timeLabelTotal" stackId="5" startPc="268437145"/>
+        <entry endPc="268437678" name="dc" stackId="1" startPc="268437133"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
         <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="238" parentId="globals" symbolId="Cpr_TimerApp" type="class"/>
-        <dataEntry offset="309" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="388" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="427" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="466" parentId="Menus" symbolId="MainMenu" type="class"/>
-        <dataEntry offset="513" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="544" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="583" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="614" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="677" parentId="globals" symbolId="Cpr_TimerView" type="class"/>
-        <dataEntry offset="772" parentId="globals" symbolId="Cpr_TimerDelegate" type="class"/>
-        <dataEntry offset="843" parentId="globals" symbolId="Cpr_TimerMenuDelegate" type="class"/>
+        <dataEntry offset="286" parentId="globals" symbolId="Cpr_TimerApp" type="class"/>
+        <dataEntry offset="357" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="436" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="475" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="514" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="561" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="592" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="631" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="662" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="717" parentId="globals" symbolId="Cpr_TimerView" type="class"/>
+        <dataEntry offset="796" parentId="globals" symbolId="Cpr_TimerDelegate" type="class"/>
+        <dataEntry offset="867" parentId="globals" symbolId="Cpr_TimerMenuDelegate" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="callback1">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="callback2">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Cpr_TimerView">
@@ -145,9 +208,6 @@
         </functionEntry>
         <functionEntry accessMode="public" name="onLayout" parent="Cpr_TimerView">
             <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="startTimer" parent="Cpr_TimerView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onShow" parent="Cpr_TimerView">
@@ -158,9 +218,6 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onHide" parent="Cpr_TimerView">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="callback2" parent="Cpr_TimerView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Cpr_TimerApp">

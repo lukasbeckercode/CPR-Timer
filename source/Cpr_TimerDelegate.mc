@@ -14,8 +14,9 @@ class Cpr_TimerDelegate extends WatchUi.BehaviorDelegate {
     function onKey(evt)
     {
     System.println("Button pressed!");
- 	 
+ 	timer2.stop();  
  	timer1.stop(); 
+
     }
     function onTap(evt)
     {
