@@ -5,4 +5,11 @@
 
     <string id="menu_label_1">Shock</string>
     <string id="menu_label_2">No Shock</string>
+    <string id="exit_label">Exit</string>
+    
+    <string id="start_menu_label">Start</string>
+    
+    <string id="adrenaline_string">Adrenaline!</string>
+    <string id="amiodarone_string">Amiodarone!</string>
+    <string id="cpr_string">CPR</string>
 </strings>

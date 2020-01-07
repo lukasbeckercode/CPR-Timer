@@ -10,12 +10,14 @@ class Cpr_TimerMenuDelegate extends WatchUi.MenuInputDelegate {
 
     function onMenuItem(item) {
         if (item == :item_1) {
-            System.println("shock");
             timer1.start(method(:callback1),1000,true);
             shocks += 1; 
         } else if (item == :item_2) {
-            System.println("no shock");
             timer1.start(method(:callback1),1000,true);
+            no_shocks += 1; 
+        } else if (item == :exit_item)
+        {
+       	System.exit();
         }
     }
 

@@ -1,0 +1,4 @@
+<menu id="StartMenu">
+    <menu-item id="item_1" label="@Strings.start_menu_label" />
+   	<menu-item id="item_2" label="@Strings.exit_label"/>
+</menu>
